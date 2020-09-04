@@ -1,3 +1,4 @@
+# Author: Dan Dean dpd5518@psu.edu
 def get_grades():
   grade = []
   weight = []
