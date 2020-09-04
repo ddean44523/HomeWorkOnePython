@@ -17,7 +17,6 @@ def funny_atof(l):
   return l
 
 def g_to_n(l):
-  print(l)
   if l == 'A+':
      l = 4.0
   elif l =='A-':
@@ -37,7 +36,7 @@ def g_to_n(l):
   else:
       l = 0.0
   return l
-  ##I hope it's not too obvious that I am self taught
+  ##I hope this is something close to what you were hoping for
 
 def gpa_calc(l,y):
   '''GPA = (gradepoint1 * credit1 + gradepoint2 * credit2 + gradepoint3 * credit3) / (credit1 + credit2 + credit3) '''
