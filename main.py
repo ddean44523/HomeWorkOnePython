@@ -17,7 +17,7 @@ def funny_atof(l):
   return l
 
 def g_to_n(l):
-  if l == 'A+':
+  if l == 'A':
      l = 4.0
   elif l =='A-':
       l = 3.67
